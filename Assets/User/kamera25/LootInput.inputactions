@@ -1,0 +1,45 @@
+{
+    "name": "LootInput",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "ff4f55a4-1b60-4769-9ed5-d8c3ffb6a728",
+            "actions": [
+                {
+                    "name": "Action",
+                    "type": "Value",
+                    "id": "961fc351-eb75-4841-8199-aaa7da5d1137",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "46169587-22ee-47bf-836d-cfa62eaccf5f",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c37e353f-6263-4c28-9c86-20ae901197e2",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

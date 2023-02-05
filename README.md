@@ -1,4 +1,4 @@
-# ROOT x LOOT (公開版)
+# ROOT x LOOT (開発版)
 
 ![スクリーンショット](TBD)
 
@@ -25,7 +25,6 @@
 
 1) Git経由でリポジトリをダウンロードして、ローカルに展開します。  
 2) Unity 2021.3.17f1(LTS)でクローンしたプロジェクトを指定して、展開してください。
-3) 「お借りした素材」のリンクから、再配布禁止の音声ファイルを入手して、Unityでアタッチしてください。
 
 ## 今年のグローバルゲームジャム
 ### テーマ
@@ -45,9 +44,12 @@ denimさんの「Root=根こそぎ」という意味を取り、ゲームが生�
 
 - Edward Aminov - translator(Special Thanks!)
 
+
 ### お借りした素材
+TBD : 変更予定
 - [効果音LAB様](https://soundeffect-lab.info)
 - [DOVA-SYNDROME様](https://dova-s.jp) 
+- [グラネタ様](https://everblasting.info) 
 
 #### ライセンス: [ Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)][license-link]
 #### [GGJの法的とポリシー情報][ggj-legal-link]
