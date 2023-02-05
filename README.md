@@ -43,6 +43,8 @@ denimさんの「Root=根こそぎ」という意味を取り、ゲームが生�
 - HANA - Designer
 - kamera25 - Programmer
 
+- Edward Aminov - translator(Special Thanks!)
+
 ### お借りした素材
 - [効果音LAB様](https://soundeffect-lab.info)
 - [DOVA-SYNDROME様](https://dova-s.jp) 
