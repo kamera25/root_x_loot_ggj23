@@ -48,6 +48,7 @@ denimさんの「Root=根こそぎ」という意味を取り、ゲームが生�
 ### お借りした素材
 - [効果音LAB様](https://soundeffect-lab.info)
 - [DOVA-SYNDROME様](https://dova-s.jp) 
+- [Cut It Out Font](https://fontesk.com/cut-it-out-font/)
 
 #### ライセンス: [ Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)][license-link]
 #### [GGJの法的とポリシー情報][ggj-legal-link]
